@@ -16,3 +16,6 @@
 [submodule "labs/2-year/OOP"]
 	path = labs/2-year/OOP
 	url = https://github.com/solomonRei/OOP.git
+[submodule "pbl/2-year/wise-project"]
+	path = pbl/2-year/wise-project
+	url = https://github.com/solomonRei/wiseproject.git
