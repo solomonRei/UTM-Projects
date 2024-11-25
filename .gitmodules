@@ -1,0 +1,18 @@
+[submodule "labs/TMPS"]
+	path = labs/TMPS
+	url = https://github.com/solomonRei/TMPS.git
+[submodule "labs/3-year/TMPS"]
+	path = labs/3-year/TMPS
+	url = https://github.com/solomonRei/TMPS.git
+[submodule "labs/3-year/PR"]
+	path = labs/3-year/PR
+	url = https://github.com/solomonRei/PR.git
+[submodule "labs/2-year/DSL"]
+	path = labs/2-year/DSL
+	url = https://github.com/solomonRei/DSL.git
+[submodule "labs/2-year/LFA"]
+	path = labs/2-year/LFA
+	url = https://github.com/solomonRei/LFA-LABS.git
+[submodule "labs/2-year/OOP"]
+	path = labs/2-year/OOP
+	url = https://github.com/solomonRei/OOP.git
